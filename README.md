@@ -5,10 +5,11 @@
 🏛  Faculty of Engineering, Computer science and control department, Mansoura University. <br b/>
 🏡 Lives in Mansoura, Egypt (🇪🇬). <br b/>
 
-* Problem Solving Skills. <br b/>
+
 * Well-practiced in C language. <br b/>
 * Proficiency within Embedded Systems Interfacing with AVR Microcontroller. <br b/>
 * Good knowledge of java and OOP. <br b/>
+* Good knowledge of python and Tkinter. <br b/>
 * A simple understanding of Android Development. <br b/>
 
 
