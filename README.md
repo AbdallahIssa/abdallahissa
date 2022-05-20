@@ -1,6 +1,7 @@
 
 # 💫About Me :
-🎓 Fourth Year Student.
+
+🎓 Fourth Year Student. <br b/>
 🏛  Faculty of Engineering, Computer science and control department, Mansoura University.
 🏡 Lives in Mansoura, Egypt (🇪🇬).
 
