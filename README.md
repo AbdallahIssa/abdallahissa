@@ -1,7 +1,7 @@
 
 # 💫About Me :
 
-🎓 Fourth Year Student. <br b/>
+🎓 Embedded SW Engineer. <br b/>
 🏛  Faculty of Engineering, Computer science and control department, Mansoura University. <br b/>
 🏡 Lives in Mansoura, Egypt (🇪🇬). <br b/>
 
