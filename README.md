@@ -3,14 +3,12 @@
 
 🏛 Embedded SW Engineer. <br b/>
 🎓 Faculty of Engineering, Computer science and control department, Mansoura University. <br b/>
-🏡 Lives in Mansoura, Egypt (🇪🇬). <br b/>
 
 
 * Well-practiced in C language. <br b/>
 * Proficiency within Embedded Systems Interfacing with AVR Microcontroller. <br b/>
 * Good knowledge of java, C++ and OOP. <br b/>
 * Good knowledge of python and Tkinter. <br b/>
-* Simple understanding of Android Development. <br b/>
 
 
 ## 🌐Socials
