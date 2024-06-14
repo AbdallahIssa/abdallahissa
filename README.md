@@ -1,5 +1,6 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=abdallahissa&label=Profile%20views&color=0e75b6)](#)
 
-# 💫About Me :
+# Hi💫, I'm Abdallah Issa :
 
 🏛 Embedded SW Engineer. <br b/>
 🎓 Faculty of Engineering, Computer science and control department, Mansoura University. <br b/>
