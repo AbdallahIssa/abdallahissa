@@ -7,9 +7,9 @@
 
 
 * Well-practiced in C language. <br b/>
-* Proficiency within Embedded Systems Interfacing with AVR Microcontroller. <br b/>
-* Good knowledge of java, C++ and OOP. <br b/>
-* Good knowledge of python and Tkinter. <br b/>
+* Proficiency within Embedded Systems. <br b/>
+* Good knowledge C++ and OOP. <br b/>
+* Good knowledge of Python and Tkinter. <br b/>
 
 
 ## 🌐Socials
